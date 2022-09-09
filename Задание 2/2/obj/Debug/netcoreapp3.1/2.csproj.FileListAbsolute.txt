@@ -1,0 +1,14 @@
+C:\My projects\Технологии программирования\ЛР_1\2\2\bin\Debug\netcoreapp3.1\2.exe
+C:\My projects\Технологии программирования\ЛР_1\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\My projects\Технологии программирования\ЛР_1\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\My projects\Технологии программирования\ЛР_1\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\My projects\Технологии программирования\ЛР_1\2\2\bin\Debug\netcoreapp3.1\2.dll
+C:\My projects\Технологии программирования\ЛР_1\2\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.csproj.AssemblyReference.cache
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.dll
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.pdb
+C:\My projects\Технологии программирования\ЛР_1\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
